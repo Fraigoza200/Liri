@@ -1,0 +1,24 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fraigoza200/Liri.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fraigoza200/Liri/issues"
+  },
+  "homepage": "https://github.com/Fraigoza200/Liri#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "spotify": "^0.3.0"
+  }
+}
